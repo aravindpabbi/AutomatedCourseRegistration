@@ -1,1 +1,1 @@
-# AutomatedCourseRegistration
+# Automated Course Registration
